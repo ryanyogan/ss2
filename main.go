@@ -6,7 +6,7 @@ import (
 	"fmt"
 
 	"github.com/micro/go-micro"
-	"github.com/ryanyogan/shippy-vessel-service/proto/vessel"
+	"github.com/ryanyogan/shippy-service-vessel/proto/vessel"
 )
 
 // Repository defines the methods available for the Vessel
